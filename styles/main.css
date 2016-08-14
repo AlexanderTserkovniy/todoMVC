@@ -1,0 +1,15 @@
+.u-flex {
+    display: flex;
+}
+
+.u-clickable {
+    cursor: pointer;
+}
+
+.u-clickable:hover {
+    opacity: 0.4;
+}
+
+.completed {
+    background: lightgreen;
+}
